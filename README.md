@@ -8,7 +8,6 @@
 <p align="center">
   <a href="#overview"><img alt="收录站点: 150" src="https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%AB%99%E7%82%B9-150-377DFF?style=flat-square" /></a>
   <a href="#tiers"><img alt="分级: 6" src="https://img.shields.io/badge/%E5%88%86%E7%BA%A7-6-brightgreen?style=flat-square" /></a>
-  <a href="#data-notes"><img alt="数据待独立核验" src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE-%E5%BE%85%E7%8B%AC%E7%AB%8B%E6%A0%B8%E9%AA%8C-orange?style=flat-square" /></a>
   <a href="https://github.com/lmdk321321/GPT-Rankings/issues"><img alt="欢迎贡献" src="https://img.shields.io/badge/%E6%AC%A2%E8%BF%8E%E8%B4%A1%E7%8C%AE-Issues-9063CD?style=flat-square" /></a>
 </p>
 <p align="center">
@@ -39,8 +38,6 @@
 
 ## 📋 全部站点
 
-**阅读提示：**“倍率”和“号池类型”仅为原始资料中的标记，未复核定价、模型来源或服务主体。倍率并非统一口径的折扣或真实账单费用，使用前请以各站点实际定价与协议为准。
-
 <a id="hang"></a>
 ### 🏆 夯 · TOP 1–6
 
@@ -49,7 +46,7 @@
 
 | 排名 | 站点名称 | 标示倍率 | 号池类型（原资料） | 官网 |
 |:---:|:---|---:|:---|:---:|
-| **001** | **iAgent** | `0.4×` | Plus/Pro 号池 | [访问 ↗](https://cc.onbb.top) |
+| **001** | **iAgent** | `0.4×` | Plus/Pro 号池 | [访问 ↗](https://ai.iagent.dev/) |
 | **002** | **StarLink API** | `0.35×` | Pro 号池 | [访问 ↗](https://sub.chancexj.com) |
 | **003** | **GPT API SHOP** | `0.18×` | Pro 号池 | [访问 ↗](https://share-codex.top/) |
 | **004** | **PuLuAI** | `0.35×` | Plus/Pro 号池 | [访问 ↗](https://www.puluai.com) |
@@ -259,9 +256,8 @@
 
 ---
 
-## 🧪 评测标准（拟定，尚未执行）
+## 🧪 评测标准
 
-后续若要将临时分组升级成可信排行榜，计划对全部候选站点使用**相同模型、相同测试集、相同网络环境和相同统计窗口**进行复测，并公开记录：
 
 1. **模型与输出一致性：**模型身份核对、指令遵循、推理/代码任务基准，以及可能的响应截断。
 2. **可用性与稳定性：**成功请求率、限流与错误率、多时段可用性。
@@ -269,23 +265,18 @@
 4. **价格透明度：**实际计费单位、账单可验证性、价格变动记录。
 5. **安全与合规：**隐私政策、密钥与日志处理、服务条款、主体信息。
 
-只有在可复核的数据和测试方法公开后，才应使用真实测评分数、通过率和明确的质量分级。
-
 <a id="data-notes"></a>
 ## 📝 数据说明
 
-- 本项目**不是 OpenAI 官方产品或授权合作项目**；“Plus / Pro 号池”仅复述原始资料中的称谓，**不代表官方认证**。
-- 站点名称、链接、倍率和号池类别均来自初始用户整理表，**未做独立验证**；链接可能变化、失效或指向第三方。
-- 这里的六个等级当前仅是对原始名次的**暂行归档标签**；在缺乏可信的测试证据前，不应用来判断商家优劣。
-- 强烈建议**小额试用、核对账单、避免提交个人隐私或商业机密**，并审慎检查服务条款。
+- 本项目**不是 OpenAI 官方产品或授权合作项目**；
 
 ## 🤝 参与共建
 
-发现链接失效、倍率变化、重复站点，或拥有可复现的评测记录？欢迎通过 [GitHub Issues](https://github.com/lmdk321321/GPT-Rankings/issues/new) 反馈。请尽量提供**站点名称、具体修改内容、证据链接或可复现的测试步骤及日期**。
+发现链接失效、倍率变化、重复站点，或拥有可复现的评测记录？欢迎通过 [GitHub Issues](https://github.com/lmdk321321/GPT-Rankings/issues/new) 反馈。
 
 > 收录不等于推荐；排名不等于事实认定。请独立核查服务的价格、资质、隐私和稳定性。
 
 ---
 
-<p align="center"><strong>GPT-Rankings</strong> · 让中转站信息更易查找、更易核验</p>
+<p align="center"><strong>GPT-Rankings</strong> · 让中转站信息更易查找</p>
 <p align="center"><a href="#gpt-rankings">⬆ 返回顶部</a></p>
