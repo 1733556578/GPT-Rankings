@@ -184,12 +184,12 @@
 | **095** | **Token King** | `0.1×` | 21% | 40% | Pro 号池 | [访问 ↗](https://tokenking.cc.cd) |
 | **096** | **Pro API** | `0.1×` | 20% | 39% | Pro 号池 | [访问 ↗](https://newapi.prorisehub.com) |
 
-<details open>
+</details>
 
 <a id="caution"></a>
 ### 🚨 慎用 · TOP 97–150
 
-<details>
+<details open>
 <summary><b>展开 / 收起 慎用组（54 个站点）</b> · 原始名单第 97–150 名</summary>
 
 | 排名 | 站点名称 | 标示倍率 | 智商测试通过率¹ | 官转概率² | 号池类型 | 官网 |
