@@ -10,9 +10,7 @@
   <a href="#tiers"><img alt="分级: 6" src="https://img.shields.io/badge/%E5%88%86%E7%BA%A7-6-brightgreen?style=flat-square" /></a>
   <a href="https://github.com/lmdk321321/GPT-Rankings/issues"><img alt="欢迎贡献" src="https://img.shields.io/badge/%E6%AC%A2%E8%BF%8E%E8%B4%A1%E7%8C%AE-Issues-9063CD?style=flat-square" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/lmdk321321/GPT-Rankings">查看仓库</a>
-</p>
+
 
 <a id="overview"></a>
 ## ✨ 排行概览
