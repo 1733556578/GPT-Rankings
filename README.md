@@ -78,6 +78,7 @@
 | **022** | **ClaudeHub** | `0.3×` | 95% | 84% | Plus/Pro 号池 | [访问 ↗](https://qinzhiai.com) |
 | **023** | **SongSong AI** | `0.25×` | 95% | 83% | Plus/Pro 号池 | [访问 ↗](https://ai.songsongcard.shop) |
 | **024** | **球球Token** | `0.4×` | 95% | 82% | Plus 号池 | [访问 ↗](https://qiuqiutoken.net) |
+</details>
 
 <details open>
 
