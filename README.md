@@ -12,22 +12,14 @@
   <a href="https://github.com/lmdk321321/GPT-Rankings/issues"><img alt="欢迎贡献" src="https://img.shields.io/badge/%E6%AC%A2%E8%BF%8E%E8%B4%A1%E7%8C%AE-Issues-9063CD?style=flat-square" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/lmdk321321/GPT-Rankings/issues/new">提交信息 / 勘误</a> ·
   <a href="https://github.com/lmdk321321/GPT-Rankings">查看仓库</a>
 </p>
-
-> [!IMPORTANT]
-> **当前是待核验的社区整理版，不是独立实测排行榜。** 下列名单与先后顺序取自项目初始整理资料，分级只是按原始名次划分的展示区间。原资料包含尚未核验的“智商测试通过率”和“网络请求延迟”，因此这里**不展示这些数值，也不将其作为事实或推荐依据**。“较差”“慎用”等是暂存分组名称，不代表已证实的服务质量问题或对相关经营者的负面结论。
 
 <a id="overview"></a>
 ## ✨ 排行概览
 
 这个项目用于集中整理面向国内用户的 GPT API 中转服务信息，方便对比**站点入口、标示倍率及号池类型**，并为后续公开、可复现的测试提供统一入口。
 
-- **收录数量：**150 个站点（来自初始名单，尚未逐站核实）
-- **展示方式：**六个等级，保留原始排名；每组可展开查看
-- **最近整理：**2026-11-17（非站点在线状态检查日期）
-- **数据范围：**站点名称 / 官网 / 原始标示倍率 / 原始标示号池类型
 
 <a id="tiers"></a>
 ## 分级概览
