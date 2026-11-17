@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="Gpt.png" width="300" alt="Gpt-Rankings" />
-</p>
-<p align="center">
-  <img src="./assets/gpt-rankings-banner.png" alt="GPT-Rankings 项目横幅" width="100%" />
+  <img src="Gpt.png" width="500" alt="Gpt-Rankings" />
 </p>
 
 <h1 align="center">GPT-Rankings</h1>
