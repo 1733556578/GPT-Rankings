@@ -78,14 +78,14 @@
 | **022** | **ClaudeHub** | `0.3×` | 95% | 84% | Plus/Pro 号池 | [访问 ↗](https://qinzhiai.com) |
 | **023** | **SongSong AI** | `0.25×` | 95% | 83% | Plus/Pro 号池 | [访问 ↗](https://ai.songsongcard.shop) |
 | **024** | **球球Token** | `0.4×` | 95% | 82% | Plus 号池 | [访问 ↗](https://qiuqiutoken.net) |
+
 </details>
 
-<details open>
 
 <a id="good"></a>
 ### 🥈 良好 · TOP 25–39
 
-<details>
+<details open>
 <summary><b>展开 / 收起 良好组（15 个站点）</b> · 原始名单第 25–39 名</summary>
 
 | 排名 | 站点名称 | 标示倍率 | 智商测试通过率¹ | 官转概率² | 号池类型 | 官网 |
