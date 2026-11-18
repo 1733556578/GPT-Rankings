@@ -43,11 +43,11 @@
 
 | 排名 | 站点名称 | 标示倍率 | 智商测试通过率 | 官转等级 | 缓存命中率 | 号池类型 | 官网 |
 |:---:|:---|---:|---:|---:|---:|:---|:---:|
-| **001** | **iAgent** | `0.4×` | 100% | 真实 | 84% | Plus/Pro 号池 | [https://ai.iagent.dev/](https://ai.iagent.dev/) |
-| **002** | **StarLink API** | `0.35×` | 99% | 真实 | 80% | Pro 号池 | [https://sub.chancexj.com](https://sub.chancexj.com) |
-| **003** | **API Station** | `0.18×` | 98% | 真实 | 87% | Pro 号池 | [https://share-codex.top/](https://share-codex.top/) |
-| **004** | **PuLuAI** | `0.35×` | 98% | 真实 | 86% | Plus/Pro 号池 | [https://www.puluai.com](https://www.puluai.com) |
-| **005** | **云间API** | `0.35×` | 98% | 真实 | 86% | Plus/Pro 号池 | [https://cloudzone-api.cyou](https://cloudzone-api.cyou) |
+| **001** | **iAgent** | `0.4×` | 100% | 真实 | 98% | Plus/Pro 号池 | [https://ai.iagent.dev/](https://ai.iagent.dev/) |
+| **002** | **StarLink API** | `0.35×` | 92% | 真实 | 80% | Pro 号池 | [https://sub.chancexj.com](https://sub.chancexj.com) |
+| **003** | **API Station** | `0.18×` | 96% | 真实 | 87% | Pro 号池 | [https://share-codex.top/](https://share-codex.top/) |
+| **004** | **PuLuAI** | `0.35×` | 98% | 真实 | 91% | Plus/Pro 号池 | [https://www.puluai.com](https://www.puluai.com) |
+| **005** | **云间API** | `0.35×` | 98% | 真实 | 89% | Plus/Pro 号池 | [https://cloudzone-api.cyou](https://cloudzone-api.cyou) |
 | **006** | **RunAPI** | `0.5×` | 98% | 真实 | 90% | Plus 号池 | [https://runapi.host](https://runapi.host) |
 
 </details>
