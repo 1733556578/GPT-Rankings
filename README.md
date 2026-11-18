@@ -45,7 +45,7 @@
 |:---:|:---|---:|---:|---:|---:|:---|:---:|
 | **001** | **iAgent** | `0.4×` | 100% | 真实 | 97% | Plus/Pro 号池 | [https://ai.iagent.dev/](https://ai.iagent.dev/) |
 | **002** | **StarLink API** | `0.35×` | 98% | 真实 | 92% | Pro 号池 | [https://sub.chancexj.com](https://sub.chancexj.com) |
-| **003** | **API Station** | `0.18×` | 96% | 真实 | 96% | Pro 号池 | [https://share-codex.top/](https://share-codex.top/) |
+| **003** | **API Station** | `0.18×` | 98% | 真实 | 96% | Pro 号池 | [https://share-codex.top/](https://share-codex.top/) |
 | **004** | **PuLuAI** | `0.35×` | 98% | 真实 | 91% | Plus/Pro 号池 | [https://www.puluai.com](https://www.puluai.com) |
 | **005** | **云间API** | `0.35×` | 98% | 真实 | 89% | Plus/Pro 号池 | [https://cloudzone-api.cyou](https://cloudzone-api.cyou) |
 | **006** | **RunAPI** | `0.5×` | 98% | 真实 | 90% | Plus 号池 | [https://runapi.host](https://runapi.host) |
