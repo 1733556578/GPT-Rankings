@@ -43,7 +43,7 @@
 
 | 排名 | 站点名称 | 标示倍率 | 智商测试通过率 | 官转等级 | 缓存命中率 | 号池类型 | 官网 |
 |:---:|:---|---:|---:|---:|---:|:---|:---:|
-| **001** | **即刻Router** | `0.12×` | 100% | 真实 | 100% | Pro 号池 | [https://api.routellm.cn/](https://api.routellm.cn/) |
+| **001** | **即刻Router** | `0.12×` | 100% | 真实 | 98% | Pro 号池 | [https://api.routellm.cn/](https://api.routellm.cn/) |
 | **002** | **StarLink API** | `0.35×` | 98% | 真实 | 92% | Pro 号池 | [https://sub.chancexj.com](https://sub.chancexj.com) |
 | **003** | **API Station** | `0.18×` | 98% | 真实 | 96% | Pro 号池 | [https://share-codex.top/](https://share-codex.top/) |
 | **004** | **PuLuAI** | `0.35×` | 98% | 真实 | 91% | Plus/Pro 号池 | [https://www.puluai.com](https://www.puluai.com) |
